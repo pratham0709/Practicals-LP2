@@ -17,7 +17,7 @@ sorting_n.main1()
 2.Creation of Fibnocci series
 
 code:-
-public class Fibonacciseries {
+public class Fibonacciseries{
     public string generateFibonacciseries(Integer n){
         String fibonacciseries='fibonacci series :';
         Integer f1=0, f2=1, nextnum=0;
