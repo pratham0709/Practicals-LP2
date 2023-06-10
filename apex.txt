@@ -39,7 +39,7 @@ system.debug(f.generatefibonacciseries(8));
 3.Identification of Odd/even number
 
 code:-
-public class even_odd {
+public class even_odd{
     public static void main2(){
         integer num=4;
         if(math.mod(num,2)==0){
