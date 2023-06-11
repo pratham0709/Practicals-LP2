@@ -59,7 +59,7 @@ even_odd.main2()
 4.Identification of positive/negative number
 
 code:-
-public class positive_negative {
+public class positive_negative{
     public static void main2(){
         integer num= -5;
         if(num>0){
