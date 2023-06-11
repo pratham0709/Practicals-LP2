@@ -83,7 +83,7 @@ positive_negative.main2()
 
 5.Minmax 
 
-public class minmax {
+public class minmax{
 
     public static void findMinMax() {
 
